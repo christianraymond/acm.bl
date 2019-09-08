@@ -1,0 +1,5 @@
+C:\workspace\ACM\Acm.Common\bin\Debug\Acm.Common.dll
+C:\workspace\ACM\Acm.Common\bin\Debug\Acm.Common.pdb
+C:\workspace\ACM\Acm.Common\obj\Debug\Acm.Common.csprojResolveAssemblyReference.cache
+C:\workspace\ACM\Acm.Common\obj\Debug\Acm.Common.dll
+C:\workspace\ACM\Acm.Common\obj\Debug\Acm.Common.pdb

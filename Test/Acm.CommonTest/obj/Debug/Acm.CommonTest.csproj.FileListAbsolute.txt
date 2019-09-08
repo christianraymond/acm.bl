@@ -1,0 +1,7 @@
+C:\workspace\ACM\Test\Acm.CommonTest\bin\Debug\Acm.CommonTest.dll
+C:\workspace\ACM\Test\Acm.CommonTest\bin\Debug\Acm.CommonTest.pdb
+C:\workspace\ACM\Test\Acm.CommonTest\bin\Debug\Acm.Common.dll
+C:\workspace\ACM\Test\Acm.CommonTest\bin\Debug\Acm.Common.pdb
+C:\workspace\ACM\Test\Acm.CommonTest\obj\Debug\Acm.CommonTest.csprojResolveAssemblyReference.cache
+C:\workspace\ACM\Test\Acm.CommonTest\obj\Debug\Acm.CommonTest.dll
+C:\workspace\ACM\Test\Acm.CommonTest\obj\Debug\Acm.CommonTest.pdb
