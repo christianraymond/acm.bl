@@ -3,3 +3,5 @@ C:\workspace\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
 C:\workspace\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
 C:\workspace\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 C:\workspace\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\workspace\ACM\ACM.BL\bin\Debug\Acm.Common.dll
+C:\workspace\ACM\ACM.BL\bin\Debug\Acm.Common.pdb

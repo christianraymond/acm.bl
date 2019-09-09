@@ -13,10 +13,9 @@ namespace Acm.CommonTest
             //Arrange
             var source = "Apple Computer";
             var expected = "Apple Computer";
-            var handler = new StringHandler();
 
             //Act
-            var actual = handler.InsertSpaces(source);
+            var actual = StringHandler.InsertSpaces(source);
             Assert.AreEqual(expected, actual);
         }
     }

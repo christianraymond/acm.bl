@@ -5,3 +5,5 @@ C:\workspace\ACM\Tests\ACM.BLTests\bin\Debug\ACM.BL.pdb
 C:\workspace\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.csprojResolveAssemblyReference.cache
 C:\workspace\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.dll
 C:\workspace\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.pdb
+C:\workspace\ACM\Tests\ACM.BLTests\bin\Debug\Acm.Common.dll
+C:\workspace\ACM\Tests\ACM.BLTests\bin\Debug\Acm.Common.pdb

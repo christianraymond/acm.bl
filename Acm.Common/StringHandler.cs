@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Acm.Common
 {
-    public class StringHandler
+    public static class StringHandler
     {
-        public string InsertSpaces(string source)
+        public static string InsertSpaces(string source)
         {
             string result = string.Empty;
 
@@ -18,6 +18,7 @@ namespace Acm.Common
                 {
                     if (char.IsUpper(letter))
                     {
+                        //Trim any space that is already there.
                         result = result.Trim();
                         result += " ";
                     }
