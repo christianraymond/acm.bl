@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acm.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    class Order : EntityBase
+    class Order : EntityBase, ILoggable
     {
         public Order()
         {
@@ -39,5 +40,8 @@ namespace ACM.BL
             if (OrderDate == null) isValid = false;
             return isValid;
         }
+
+        public string Log() => $"{OrderId}: Date: {this.OrderDate.Value.Date} Status: {this.EntityState.ToString()}";
+        
     }
 }
